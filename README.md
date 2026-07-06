@@ -29,7 +29,7 @@ An interactive Tableau dashboard that transforms raw academic records into meani
 ## Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Educational Performance Dashboard" width="100%">
+  <img src="images/Dashboard.png" alt="Educational Performance Dashboard" width="100%">
 </p>
 
 ## About the Project
@@ -129,7 +129,7 @@ Before developing the dashboard, the dataset underwent several preprocessing ste
 The **Educational Performance Dashboard** consolidates multiple academic performance indicators into a single interactive interface, enabling users to analyze grade distributions, subject-wise performance, failure trends, credit allocation, and batch-wise academic statistics. The dashboard is designed to provide educators and administrators with a comprehensive overview of institutional performance through intuitive visualizations and interactive exploration.
 
 <p align="center">
-  <img src="images/dashboard.png" alt="Educational Performance Dashboard" width="100%">
+  <img src="images/Dashboard.png" alt="Educational Performance Dashboard" width="100%">
 </p>
 
 ### Dashboard Highlights
@@ -149,7 +149,7 @@ The dashboard integrates six interactive visualizations, each focusing on a diff
 ### 1. Grade Distribution
 
 <p align="center">
-  <img src="images/grade-distribution.png" alt="Grade Distribution" width="70%">
+  <img src="images/Grade-Distribution.png" alt="Grade Distribution" width="70%">
 </p>
 
 **Description**
@@ -165,7 +165,7 @@ The visualization reveals that grades **E** and **A** represent the largest shar
 ### 2. Failures by Subject
 
 <p align="center">
-  <img src="images/failures-by-subject.png" alt="Failures by Subject" width="85%">
+  <img src="images/Failures-By-Subject.png" alt="Failures by Subject" width="85%">
 </p>
 
 **Description**
@@ -181,7 +181,7 @@ Subjects such as **Android App Development**, **Applied Engineering**, and **Bas
 ### 3. Average Grade by Subject
 
 <p align="center">
-  <img src="images/average-grade.png" alt="Average Grade by Subject" width="85%">
+  <img src="images/Average-Grade-By-Subject.png" alt="Average Grade by Subject" width="85%">
 </p>
 
 **Description**
@@ -197,7 +197,7 @@ Subjects such as **Sensory Evaluation** and **Art of Officiating** achieved the 
 ### 4. Subject Credit Weight
 
 <p align="center">
-  <img src="images/credit-weight.png" alt="Subject Credit Weight" width="85%">
+  <img src="images/Subject-Credit-Weight.png" alt="Subject Credit Weight" width="85%">
 </p>
 
 **Description**
@@ -213,7 +213,7 @@ Core engineering subjects such as **Programming in C**, **Design and Analysis of
 ### 5. Numeric Grade Distribution
 
 <p align="center">
-  <img src="images/numeric-grade-distribution.png" alt="Numeric Grade Distribution" width="70%">
+  <img src="images/Numeric-Grade-Distribution.png" alt="Numeric Grade Distribution" width="70%">
 </p>
 
 **Description**
@@ -229,7 +229,7 @@ The chart highlights that lower numeric grades occur most frequently, providing 
 ### 6. Batch Distribution
 
 <p align="center">
-  <img src="images/batch-distribution.png" alt="Batch Distribution" width="70%">
+  <img src="images/Batch-Distribution.png" alt="Batch Distribution" width="70%">
 </p>
 
 **Description**
