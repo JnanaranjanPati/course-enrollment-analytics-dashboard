@@ -1,0 +1,41 @@
+# ===========================
+# Operating System Files
+# ===========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ===========================
+# Tableau Backup Files
+# ===========================
+*.twb~
+*.bak
+
+# ===========================
+# Temporary Files
+# ===========================
+*.tmp
+*.temp
+*.log
+
+# ===========================
+# IDE Files
+# ===========================
+.vscode/
+.idea/
+
+# ===========================
+# Python Cache (if analysis scripts are added later)
+# ===========================
+__pycache__/
+*.pyc
+
+# ===========================
+# Jupyter Notebook Checkpoints
+# ===========================
+.ipynb_checkpoints/
+
+# ===========================
+# Environment Files
+# ===========================
+.env
